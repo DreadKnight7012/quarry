@@ -86,7 +86,11 @@ function dropThrash()
 	local thrash = {
 		"minecraft:cobblestone",
 		"minecraft:stone",
-		"minecraft:dirt"
+		"minecraft:dirt",
+		"byg:scoria_cobblestone",
+		"byg:soapstone",
+		"byg:rocky_stone",
+		"minecraft:gravel"
 		}
 
 	for i=1, 16 do
